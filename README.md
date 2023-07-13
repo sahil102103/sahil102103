@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @sahil102103
 - 👀 I’m interested in coding, math, basketball, stocks, AI, and cryptocurrency.
-- 🌱 I’m currently learning CS50.
 - 💞️ I’m looking to collaborate on different projects.
 - 📫 How to reach me sahilshah102103@gmail.com
 
